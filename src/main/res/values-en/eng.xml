@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name_movie">Movie Catalogue</string>
+    <string name="app_name_tvshow">Tv Show Catalogue</string>
+    <string name="detail">Detail</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">Tv Shows</string>
+    <string name="move_with_data">move with data</string>
+    <string name="this_is_moveactivity">move Activity</string>
+    <string name="data_received">data Received</string>
+    <string name="move_with_object">Move With Object</string>
+    <string name="object_received">Object Received</string>
+    <string name="name_heroes">name movies</string>
+    <string name="lorem">Description</string>
+    <string name="todo_photo_movie">TODO: PHOTO MOVIE</string>
+    <string name="genre">Genre:</string>
+    <string name="action">action</string>
+    <string name="tahun">Release:</string>
+    <string name="tahun_2">Release:</string>
+    <string name="todo_photo">TODO Photo</string>
+    <string name="tahun_pembuatan">years Making</string>
+    <string name="genres">Genre</string>
+    <string name="deskripsi">Description</string>
+    <string name="pembatas">Line Break</string>
+    <string name="rating">Rating</string>
+    <string name="rating_nya">9.4</string>
+    <string name="vote">vote</string>
+    <string name="total_vote">total Vote</string>
+    <string name="API">"&amp;language=en-US"</string>
+    <string name="succes_add_data">Success Add Movie</string>
+    <string name="failed_add_data">Failed Add Movie</string>
+    <string name="notif_failed_delete">Failed delete data</string>
+    <string name="succes_add_data_tv">Success Add TV</string>
+    <string name="failed_add_data_tv">Failed Add TV</string>
+    <string name="favorit">Favorit</string>
+    <string name="delete">Delete</string>
+    <string name="choose">choose</string>
+    <string name="text_favorit_movie">Movie Favorit in here</string>
+    <string name="text_favorit_tvShow">Tv Show Favorit in here</string>
+    <string name="app_name_movie_favorit">Movie Favorit</string>
+    <string name="app_name_tvshow_favorit">Tv Show Favorit</string>
+
+    <array name="data_photo">
+
+
+        <item>@drawable/hours_satu_dua_tujuh</item>
+        <item>@drawable/alita</item>
+        <item>@drawable/batman</item>
+        <item>@drawable/birthburn</item>
+        <item>@drawable/founder</item>
+        <item>@drawable/iam</item>
+        <item>@drawable/insidious</item>
+        <item>@drawable/survivalfamily</item>
+        <item>@drawable/us</item>
+        <item>@drawable/pikachu</item>
+    </array>
+    <array name="data_photo_tv">
+        <item>@drawable/inuyasha</item>
+        <item>@drawable/finalspace</item>
+        <item>@drawable/mayans</item>
+        <item>@drawable/sabrina</item>
+        <item>@drawable/summon</item>
+        <item>@drawable/bodyguard</item>
+        <item>@drawable/guest</item>
+        <item>@drawable/gungaleonline</item>
+        <item>@drawable/theland</item>
+        <item>@drawable/advanced</item>
+    </array>
+
+    <string-array name="data_name">
+        <item>127 Hours</item>
+        <item>Alita Batlle Angel</item>
+        <item>Batman Dark Knight</item>
+        <item>Brithburn</item>
+        <item>Founder MC Donald</item>
+        <item>Iam Hero</item>
+        <item>Insidious</item>
+        <item>Survival Family</item>
+        <item>US</item>
+        <item>Detective Pikachu</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Adventure, Biography, Drama</item>
+        <item>Action, Adventure, Sci-Fi, Thriller</item>
+        <item>Action, Thriller</item>
+        <item>Horror, Sci-Fi</item>
+        <item>Biography, Drama, History</item>
+        <item>Action, Horror</item>
+        <item>Horror, Mystery, Thriller</item>
+        <item>Adventure, Comedy, Family</item>
+        <item>Horror, Mystery, Thriller</item>
+        <item>Action, Adventure, Comedy</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>127 Hours is a true story of the struggle of a mountain climber named Aron Ralston</item>
+        <item>Battle Angel tells Alita, a robot born again thanks to Dr. IDO.</item>
+        <item>8 years after the incident in The Dark Knight, Bruce Wayne (Christian Bale).</item>
+        <item>In a small town called Brightburn, a husband and wife want the gift of a baby that never gets.</item>
+        <item>Tell the true story of how Ray Kroc (Michael Keaton).</item>
+        <item>Hideo Suzuki was an assistant to mangaka, he had been an assistant to mangaka for a small fee.</item>
+        <item>Elise Reinier (Lin Shaye) gets a phone call from someone who claims to have a supernatural disturbance in his home.</item>
+        <item>One time a blackout around the world occurred.</item>
+        <item>Tells of a family on vacation to the beach and staying at his wifes childhood home, Adelaide Wilson.</item>
+        <item>Pokemon detective pikachu tells the disappearance of the famous detective, Harry Goodman, who mysteriously disappeared after an accident in the car he was riding.</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>127 Hours is a true story taken from the struggle of a mountain climber named Aron Ralston who was trapped in a gap in the Grand Canyon for 127 hours or about 5 days. While exploring the Grand Canyon alone, Aron was accidentally stuck in a really uncomfortable position. His right hand was pinched by a large rock which made him unable to escape. During these 127 hours, Aron continued to survive in the tightness and solitude that made him truly isolated from the outside world. Aron struggled alone to find a way out, looking for ways to free himself from the crush of the big stone. During those 127 hours, Aron still found time to make a recording armed with his camcorders. He recorded various things, about his hand being pinched, about his condition, testimonials about people he knew and apologies to those he loved. One by one his lifes journey, his mistakes and the people he loved flashed in his memory. For 127 hours Aron survived to stay alive with drinking water rations that were increasingly depleting. Aron also survived to remain sane, and most importantly survived with enthusiasm to stay alive and struggle to escape the trap.</item>
+        <item>Battle Angel tells Alita, a robot born again thanks to Dr. Ido, a doctor who realized Alitas potential. Living in Iron City, Ido tries to protect him from his mysterious past. Meanwhile, his new friend, Hugo, actually helped him recover his lost memories. Because of the ability of the Panzer Kunts stance and its cyborg body that has advanced technology, Alita became the target. He also managed to find pieces of memory from his past and remember his mission to kill people behind the crime in the city. Has Alita successfully met the person behind the crime? Thats just a brief synopsis of the Alita Movie.</item>
+        <item>8 years after the incident in The Dark Knight, Bruce Wayne (Christian Bale) is not the dashing man we once knew. Now it looks so sad after Rachels death. Already walking with a cane, the family business went bankrupt, Wayne also could not move on with the enduring suffering. At the same time, Gotham is in danger of destruction after the arrival of Bane (Tom Hardy) who successfully ravaged the city. There is hardly any room for justice. Unfortunately Batman, who is expected to save Gotham, is lying helplessly weak. Now Gotham must survive alone with or without Batman. The problem now is, can they survive the state of the city that can not be saved anymore ?.</item>
+        <item>In a small town called Brightburn, a husband and wife want the gift of a baby that never gets. Until one day came a mysterious object from the sky in the forest near his home. It turned out to be a lifepod filled by a boy baby boy. Feeling this was the answer to their prayers, the child was adopted and named Brandon. Brandon is a genius and cared for with great care, like his own child. Until the age of 12, he experienced puberty and there was a change in him. He has superhuman strength far above normal humans. And his identity as an alien sent to rule the earth began to unfold.</item>
+        <item>Tell the true story of how Ray Kroc (Michael Keaton), an Illinois salesman, met Mac and Dick McDonald, who ran a burger business in the 1950s in Southern California. Kroc was impressed with the speed with which the two brothers made food and saw potential franchises in it. He directed himself into a position that made it possible to take over the company of these two brothers and create an empire with a turnover of billions of dollars. Kroc looked very surprised by the long queues of people in front of the restaurant. In McDonalds, hamburgers are cooked and served quickly. He began to make plans to take over McDonalds from these two brothers. Kroc also thought about the cities where he could build McDonalds franchise restaurants.</item>
+        <item>Hideo Suzuki is an assistant to mangaka, he once made a manga but failed in the realm of production and adherence and therefore he became a mangaka assistant with a small fee. Hideo considers himself merely a supporting character in this world, a loser who has low self-esteem. This makes him frustrated to continue his life. But his fate changed when the unknown ZQN virus from where it came from attacked Japan. People who are infected with the ZQN virus will be like zombies and if someone is bitten they will also become zombies. While saving himself Hideo met a high school student named Hiromi Hayakari. They tried to escape from the city but Hiromi was unexpectedly hit by a bite from a baby affected by the ZQN virus. Because the baby doesnt have teeth now Hiromi is half zombie. On their way they look for reinforcements to save Hiromi and they meet with a nurse named Yabu.</item>
+        <item>Elise Reinier (Lin Shaye) gets a phone call from someone who claims to have a supernatural disturbance in his home. It turned out that the house was the house where Elise had grown up since childhood with her brother and father who were rude and torturous. This time Elise could not help but have to face again the evil forces that had killed her mother and made her father fond of torturing.</item>
+        <item>One time a blackout around the world occurred. Everything that needs electricity stops and cant function. Not only electrical equipment, but also trains, cars, gas and water systems. There are no phones to use and no trains to go to work. With conditions like this, the city of Tokyo became chaotic almost destroyed. Because Tokyo is famous for its technological sophistication which requires the use of electricity. The Yoshiyuki Suzuki (Fumiyo Kohinata) family was no exception who had to deal with this crisis. They think they can deal with it for one day, until it changes day after day. Yoshiyuki Suzukis family finally decided to escape from Tokyo. This is where the struggle of the Yoshiyuki Suzuki Family in survival outside of Tokyo was tested. Can Yoshiyuki Suzukis family survive without the electronic equipment they are used to?</item>
+        <item>Tells of a family on vacation to the beach and staying at his wifes childhood home, Adelaide Wilson. Terror began to come when Adelaide increasingly remembered his childhood in that place. It hasnt even been one day since the familys happiness turned into fear when uninvited guests appeared on their home page. The guest is like a doppelganger of the family. The difference is, they come to kill. Terror attacks from them for such a large movement. The Wilson family must be able to survive from all this.</item>
+        <item>Pokemon detective pikachu tells the disappearance of the famous detective, Harry Goodman, who mysteriously disappeared after an accident in the car he was riding. Tim Goodman, who is the son of the detective, was worried about the mysterious disappearance of his father. The team from the small town went to Ryme City, a metropolitan city inhabited by humans and Pokemon. In the middle of his investigation, he met with Detective Pikachu. Unexpectedly, the Team understood Pikachus words and Pikachu felt relieved because all this time people only heard the word pika-pika. From then on, Pikachu and Team worked together to find Harry Goodman.</item>
+    </string-array>
+
+    <string-array name="data_tahun">
+        <item>28 Jan 2011</item>
+        <item>14 Feb 2019</item>
+        <item>16 Jul 2012</item>
+        <item>24 May 2019</item>
+        <item>20 Jan 2017</item>
+        <item>13 Okt 2015</item>
+        <item>5 Jan 2018</item>
+        <item>11 Feb 2017</item>
+        <item>22 Mar 2019</item>
+        <item>10 May 2019</item>
+    </string-array>
+
+    <string-array name="data_name_tv">
+        <item>Inuyasha</item>
+        <item>FinalSpace</item>
+        <item>Mayans</item>
+        <item>Chilling Adventures of Sabrina</item>
+        <item>Not Summon a Demon lord</item>
+        <item>Body Guard</item>
+        <item>My Next Guest</item>
+        <item>SAO: Gun Gale</item>
+        <item>The I-Land</item>
+        <item>Advance Bravely</item>
+    </string-array>
+
+    <string-array name="data_genre_tv">
+        <item>Animation, Sci-fi, Fantasy</item>
+        <item>Animation, Adventure</item>
+        <item>Crime, Drama</item>
+        <item>Mystery, Drama</item>
+        <item>Animation, Comedy</item>
+        <item>War, Politics</item>
+        <item>Talk</item>
+        <item>Animation, Action</item>
+        <item>Animation, Adventure</item>
+        <item>Action, Drama, Adventure</item>
+    </string-array>
+
+    <string-array name="data_description_tv">
+        <item>Kagome Higurashi is a modern young girl who lives with her family by the old Higure temple.</item>
+        <item>An astronaut named Gary and Mooncakes best friend who destroyed his planet began a glowing journey through space to unlock mysteries.</item>
+        <item>Located after Jax Tellers death, Ezekiel EZ Reyes has just come out of prison and prospects at Mayans M.C. charter on the Cali / Mexi border.</item>
+        <item>Sabrina must choose between the wizarding world of her family and the human world of her friends.</item>
+        <item>In connection with the Cross MMORPG Reverie, Sakamoto Takuma boasted an extraordinary strength enough for him to be called the Demon King by other players.</item>
+        <item>A troubled war veteran was assigned to protect a controversial politician who might be targeted by a terror plot.</item>
+        <item>TV legend David Letterman works closely with interesting global figures for in-depth interviews.</item>
+        <item>Karen Kohiruimaki always felt out of place in the real world. Because of her extreme height, she found it difficult to make friends with other girls her age.</item>
+        <item>Wiped clean from memory and thrown together, a group of strangers struggled to survive the harsh reality - and the island that trapped them.</item>
+        <item>Sergeant Xia Yao, born to a rich and famous ancestor, was a playboy who had turned over a new leaf.</item>
+    </string-array>
+
+    <string-array name="data_sinopsis_tv">
+        <item>Kagome Higurashi is a modern young girl who lives with her family by the old Higure temple. Unknown to Kagome, he is the reincarnation of priest Kikyo and possesses the Jewel of the Four Souls (Shikon jewel). One fateful day, Kagome found an ancient well near his house and was suddenly transported through the well and into feudal Japan, inhabited by demons. There, he meets Inuyasha, the son of a powerful demon father and a human mother, who is pinned to a tree by a magic arrow.</item>
+        <item>An astronaut named Gary and Mooncakes best friend who destroyed his planet began a glowing journey through space to unlock the mystery of the End of Space, the last point in the universe, if any.</item>
+        <item>Located after Jax Tellers death, Ezekiel EZ Reyes has just come out of prison and prospects at Mayans M.C. charter on the Cali / Mexi border. Now, EZ has to carve out his new identity in a city where he was once a golden boy with the American Dream in his grasp.</item>
+        <item>As her 16th birthday approached, Sabrina had to choose between the wizarding world of her family and the human world of her friends. Based on Archies comics.</item>
+        <item>In connection with the Cross MMORPG Reverie, Sakamoto Takuma boasted an extraordinary strength enough for him to be called the Demon King by other players. One day, he was summoned to another world with his appearance in the game. There were two people who insisted, Im the real summoner. Takuma got slave revenge magic used for summoned monsters thrown at him by the girls― However, the strange ability of Magic Reflection was summoned! The people who become slaves are girls!</item>
+        <item>On the train ride home from visiting his parents with his children, David Budd found one passenger would launch a terrorist act from the train toilet. David, who is a police officer and war veteran in Afghanistan with PTSD, was later assigned as the bodyguard of the much-hated Home Secretary, Julia Montague.</item>
+        <item>My Next Guest Needs No Introduction With David Letterman is an American web television talk show hosted by David Letterman which premiered on January 12, 2018 on Netflix. TV legend David Letterman works closely with interesting global figures for in-depth interviews and curious visits in this monthly talk show.</item>
+        <item>Karen Kohiruimaki always felt out of place in the real world. Because of her extreme height, she found it difficult to make friends with other girls her age. Everything changed when he was introduced to VR and Gun Gale Online. In GGO, Karen is free to play the cute chibi avatars of her dreams! Can Karen find friendship in this MMO full of bullets…?.</item>
+        <item>Wiped clean from memory and thrown together, a group of strangers struggled to survive the harsh reality - and the island that trapped them. When ten people woke up on a dangerous island with no memory of who they were and how they got there, they set out to try to go home, only to discover the world as it seemed.</item>
+        <item>Sergeant Xia Yao, born to a rich and famous ancestor, was a playboy who had turned over a new leaf. Yuan Zong is a former soldier of the special forces who opened a bodyguard training company after being laid off. When Yuan Ru, Yuan Zongs sister fell in love with Xia Yaos charm, but could not break the barrier he had set up, he came to Yuan Zong for help. When Yuan Zong saw Xia Yao, he knew that no one else would attract his attention. And a battle began between brothers and sisters for the most desirable price - the heart of Xia Yao.</item>
+    </string-array>
+
+    <string-array name="data_tahun_tv">
+        <item>16 Okt 2000</item>
+        <item>15 Feb 2018</item>
+        <item>4 Sep 2018</item>
+        <item>26 Okt 2018</item>
+        <item>5 Jul 2018</item>
+        <item>26 Agt 2018</item>
+        <item>12 Jan 2018</item>
+        <item>7 Apr 2018</item>
+        <item>12 Sep 2019</item>
+        <item>8 Agt 2017</item>
+    </string-array>
+
+</resources>

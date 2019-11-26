@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginBottom="4dp"
+    card_view:cardCornerRadius="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@drawable/rounded"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/img_photo"
+            android:layout_width="98dp"
+            android:layout_height="167dp"
+            android:contentDescription="@string/todo_photo_movie"
+            android:scaleType="fitXY"
+            android:src="@drawable/pikachu" />
+
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="26dp"
+            android:layout_toEndOf="@id/img_photo"
+            android:text="@string/name_heroes"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_name"
+            android:layout_marginStart="26dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/img_photo"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:text="@string/lorem" />
+
+        <TextView
+            android:id="@+id/txt_genre1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_name"
+            android:layout_alignBottom="@+id/txt_tahun2"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="79dp"
+            android:layout_marginBottom="36dp"
+            android:layout_toEndOf="@id/img_photo"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:text="@string/vote" />
+
+        <TextView
+            android:id="@+id/txt_genres"
+            android:layout_width="179dp"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/txt_genre1"
+            android:layout_alignTop="@+id/txt_genre1"
+            android:layout_marginStart="51dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="26dp"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:text="@string/action"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_tahun2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_name"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="115dp"
+            android:layout_toEndOf="@id/img_photo"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:text="@string/tahun" />
+
+        <TextView
+            android:id="@+id/txt_tahun"
+            android:layout_width="86dp"
+            android:layout_height="18dp"
+            android:layout_alignStart="@+id/txt_tahun2"
+            android:layout_alignTop="@+id/txt_tahun2"
+            android:layout_alignBottom="@+id/txt_tahun2"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="51dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="128dp"
+            android:layout_marginBottom="1dp"
+            android:text="@string/tahun_pembuatan"
+            android:textStyle="bold" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name_movie">Movie Catalogue</string>
+    <string name="app_name_tvshow">Tv Show Catalogue</string>
+    <string name="detail">Detail</string>
+    <string name="change_language_settings">Rubah Bahasa</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">Tv Shows</string>
+    <string name="move_with_data">move with data</string>
+    <string name="this_is_moveactivity">move Activity</string>
+    <string name="data_received">data Received</string>
+    <string name="move_with_object">Move With Object</string>
+    <string name="object_received">Object Received</string>
+    <string name="name_heroes">name movies</string>
+    <string name="lorem">Description</string>
+    <string name="todo_photo_movie">TODO: PHOTO MOVIE</string>
+    <string name="genre">Genre:</string>
+    <string name="action">action</string>
+    <string name="tahun">Tahun:</string>
+    <string name="tahun_2">Tahun</string>
+    <string name="todo_photo">TODO Photo</string>
+    <string name="tahun_pembuatan">Tahun Pembuatan</string>
+    <string name="genres">Genre</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="pembatas">Garis pembatas</string>
+    <string name="rating">Rating</string>
+    <string name="rating_nya">9.4</string>
+    <string name="vote">vote</string>
+    <string name="total_vote">total Vote</string>
+    <string name="API">"&amp;language=en-US"</string>
+    <string name="succes_add_data">Success Add Movie</string>
+    <string name="failed_add_data">Failed Add Movie</string>
+    <string name="notif_failed_delete">Failed delete data</string>
+    <string name="succes_add_data_tv">Success Add TV</string>
+    <string name="failed_add_data_tv">Failed Add TV</string>
+    <string name="favorit">Favorit</string>
+    <string name="delete">Delete</string>
+    <string name="choose">choose</string>
+    <string name="text_favorit_movie">Movie Favorit in here</string>
+    <string name="text_favorit_tvShow">Tv Show Favorit in here</string>
+    <string name="app_name_movie_favorit">Movie Favorit</string>
+    <string name="app_name_tvshow_favorit">Tv Show Favorit</string>
+
+    <array name="data_photo">
+
+
+        <item>@drawable/hours_satu_dua_tujuh</item>
+        <item>@drawable/alita</item>
+        <item>@drawable/batman</item>
+        <item>@drawable/birthburn</item>
+        <item>@drawable/founder</item>
+        <item>@drawable/iam</item>
+        <item>@drawable/insidious</item>
+        <item>@drawable/survivalfamily</item>
+        <item>@drawable/us</item>
+        <item>@drawable/pikachu</item>
+    </array>
+    <array name="data_photo_tv">
+        <item>@drawable/inuyasha</item>
+        <item>@drawable/finalspace</item>
+        <item>@drawable/mayans</item>
+        <item>@drawable/sabrina</item>
+        <item>@drawable/summon</item>
+        <item>@drawable/bodyguard</item>
+        <item>@drawable/guest</item>
+        <item>@drawable/gungaleonline</item>
+        <item>@drawable/theland</item>
+        <item>@drawable/advanced</item>
+    </array>
+
+    <string-array name="data_name">
+        <item>127 Hours</item>
+        <item>Alita Batlle Angel</item>
+        <item>Batman Dark Knight</item>
+        <item>Brithburn</item>
+        <item>Founder MC Donald</item>
+        <item>Iam Hero</item>
+        <item>Insidious</item>
+        <item>Survival Family</item>
+        <item>US</item>
+        <item>Detective Pikachu</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Adventure, Biography, Drama</item>
+        <item>Action, Adventure, Sci-Fi, Thriller</item>
+        <item>Action, Thriller</item>
+        <item>Horror, Sci-Fi</item>
+        <item>Biography, Drama, History</item>
+        <item>Action, Horror</item>
+        <item>Horror, Mystery, Thriller</item>
+        <item>Adventure, Comedy, Family</item>
+        <item>Horror, Mystery, Thriller</item>
+        <item>Action, Adventure, Comedy</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>127 Hours adalah kisah nyata dari perjuangan seorang pendaki gunung bernama Aron Ralston</item>
+        <item>Battle Angel menceritakan Alita, robot yang dilahirkan kembali berkat kemampuan Dr. Ido.</item>
+        <item>8 tahun setelah kejadian dalam The Dark Knight, Bruce Wayne (Christian Bale).</item>
+        <item>Di kota kecil bernama Brightburn, sepasang suami istri menginginkan anugerah buah hati yang tidak kunjung didapat.</item>
+        <item>Menceritakan kisah nyata tentang bagaimana Ray Kroc (Michael Keaton).</item>
+        <item>Hideo Suzuki seorang assisten mangaka, ia pernah menjadi assisten mangaka dengan bayaran yang kecil. </item>
+        <item>Elise Reinier (Lin Shaye) mendapat telepon dari seseorang yang mengaku mendapatkan gangguan mahluk halus di rumahnya.</item>
+        <item>Suatu ketika Pemadaman listrik di seluruh dunia terjadi.</item>
+        <item>Menceritakan satu keluarga yang tengah berlibur ke pantai dan menginap di rumah masa kecil sang istri, Adelaide Wilson.</item>
+        <item>Pokemon detective pikachu menceritakan Hilangnya detektif terkenal, Harry Goodman yang menghilang secara misterius setelah mengalami kecelakaan pada mobil yang ia tumpangi.</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>127 Hours adalah kisah nyata yang diangkat dari perjuangan seorang pendaki gunung bernama Aron Ralston yang sempat terjebak dalam sebuah celah di Grand Canyon selama 127 jam atau sekitar 5 hari. Saat menjelajahi Grand Canyon sendirian, Aron tanpa sengaja terjebak dengan posisi yang sungguh tak nyaman. Tangan kanannya terjepit batu besar yang membuatnya tak bisa melepaskan diri. Selama 127 jam itu Aron terus bertahan hidup dalam keterhimpitan dan kesendirian yang membuatnya betul-betul terisolasi dari dunia luar. Aron bergelut sendirian mencari jalan keluar, mencari cara untuk membebaskan dirinya dari himpitan batu besar tersebut. Selama 127 jam itu, Aron masih menyempatkan diri untuk membuat rekaman berbekal handycam yang dimilikinya. Beragam hal dia rekam, tentang tangannya yang terjepit, tentang keadaannya, testimoni tentang orang-orang yang dikenalnya serta permintaan maaf kepada orang-orang yang dicintainya. Satu-satu perjalanan hidupnya, kesalahan-kesalahannya dan orang-orang yang dicintainya berkelebat dalam ingatannya. Selama 127 jam Aron bertahan untuk tetap hidup dengan jatah air minum yang makin lama makin menipis. Aron juga bertahan untuk tetap waras, dan yang paling penting bertahan dengan semangat untuk tetap hidup dan berjuang agar lepas dari perangkap tersebut..</item>
+        <item>Battle Angel menceritakan Alita, robot yang dilahirkan kembali berkat kemampuan Dr. Ido, seorang dokter yang menyadari potensi Alita. Tinggal di Iron City, Ido mencoba untuk melindunginya dari masa lalunya misterius. Sedangkan, teman barunya, Hugo justru membantu mendapatkan kembali ingatannya yang hilang. Karena kemampuan jurus Panzer Kunts dan tubuh cyborg-nya yang punya teknologi canggih, Alita jadi incaran. Dia pun berhasil menemukan serpihan ingatan masa lalunya dan ingat misinya untuk membunuh orang di balik kejahatan di kota tersebut. Berhasilkah Alita bertemu dengan orang di balik kejahatan tersebut? Itu saja sinopsis singkat dari Movie Alita.</item>
+        <item>8 tahun setelah kejadian dalam The Dark Knight, Bruce Wayne (Christian Bale) bukanlah pria gagah yang dulu kita kenal. Sekarang tampilannya begitu menyedihkan usai kematian Rachel. Sudah berjalan memakai tongkat, usaha keluarga bangkrut, Wayne juga tak bisa move on atas bertubi penderitaan yang mendera. Di saat bersamaan, Gotham terancam kehancuran setelah kedatangan Bane (Tom Hardy) yang sukses memporak-porandakan kota tersebut. Hampir tak ada celah untuk keadilan. Sayangnya Batman yang diharap selamatkan Gotham malah tergeletak lemah tak berdaya. Kini Gotham harus bertahan sendiri dengan atau tanpa Batman. Masalahnya sekarang adalah, bisakah mereka bertahan dari keadaan kota yang tak bisa diselamatkan lagi?.</item>
+        <item>Di sebuah kota kecil bernama Brightburn, sepasang suami istri menginginkan anugerah buah hati yang tidak kunjung didapat. Sampai suatu hari datang sebuah benda misterius dari langit di hutan dekat rumahnya. Ternyata berupa lifepod yang diisi oleh seorang bocah bayi laki- laki. Merasa ini adalah jawaban dari doa- doa mereka, anak kecil tersebut diadopsi dan diberinama Brandon. Brandon sangat jenius dan dirawat dengan penuh kasing sayang layaknya anak sendiri. Hingga di usia ke-12, dia mengalami masa pubertas dan terjadi perubahan pada dirinya. Dirinya memiliki kekuatan super jauh di atas manusia normal. Dan jati dirinya sebagai seorang alien yang diutus untuk menguasai bumi mulai terkuak.</item>
+        <item>Menceritakan kisah nyata tentang bagaimana Ray Kroc (Michael Keaton), seorang salesman asal Illinois, bertemu dengan Mac dan Dick McDonald, yang menjalankan usaha burger pada tahun 1950an di California Selatan. Kroc terkesan dengan kecepatan dari sepasang saudara ini dalam membuat makanan dan melihat potensial waralaba di dalamnya. Ia mengarahkan dirinya ke dalam posisi yang memungkinkan untuk mengambil alih perusahaan dari dua bersaudara ini dan menciptakan sebuah kerajaan dengan omset miliaran dollar. Kroc terlihat sangat kaget dengan antrian panjang orang-orang di depan restoran. Di dalam McDonald, hamburger dimasak dan disajikan dengan cepat. Ia mulai membuat beberapa rencana untuk mengambil alih McDonald’s dari dua bersaudara ini. Kroc juga memikirkan tentang kota-kota di mana ia dapat membangun restoran waralaba McDonald’s.</item>
+        <item>Hideo Suzuki seorang assisten mangaka, ia pernah membuat sebuah manga tapi gagal di ranah produksi dan percekatan maka dari itu ia menjadi assisten mangaka dengan bayaran yang kecil. Hideo menganggap bahwa dirinya hanyalah seorang karakter pendukung di dunia ini, seorang pecundang yang memiliki harga diri rendah. Hal inilah yang membuatnya frustasi untuk meneruskan hidupnya. Namun nasibnya berbubah ketika virus ZQN yang tidak diketahui darimana asalnya menyerang Jepang. Orang yang terkena virus ZQN akan seperti zombie dan jika seseorang terkena gigitannya ia juga akan menjadi zombie. Saat sedang menyelamatkan diri Hideo bertemu dengan siswi SMA bernama Hiromi Hayakari. Mereka mencoba melarikan diri dari kota tersebut namun tanpa diduga Hiromi terkena gigitan dari bayi yang terkena virus ZQN. Karena bayi tersebut tidak memiliki gigi sekarang Hiromi jadi manusia setengah zombie. Dalam perjalannya mereka mencari balabantuan untuk menyelamatkan Hiromi dan mereka bertemu dengan perawat bernama Yabu. </item>
+        <item>Elise Reinier (Lin Shaye) mendapat telepon dari seseorang yang mengaku mendapatkan gangguan mahluk halus di rumahnya. Ternyata rumah tersebut adalah rumah di mana Elise tumbuh sejak kecil bersama adik dan ayahnya yang kasar dan suka menyiksa. Kali ini Elise mau tidak mau harus menghadapi lagi kekuatan jahat yang sempat membunuh ibunya dan membuat ayahnya gemar menyiksa.</item>
+        <item>Suatu ketika Pemadaman listrik di seluruh dunia terjadi. Segala sesuatu yang membutuhkan listrik berhenti dan tidak bisa berfungsi. Tak hanya peralatan listrik, tetapi juga kereta, mobil, gas, dan sistem air. Tak ada telepon yang bisa digunakan dan tak ada kereta untuk berangkat kerja. Dengan kondisi seperti ini, Kota Tokyo menjadi kacau balau hampir hancur. Karena Tokyo terkenal dengan kecangihan teknologinya yang mengharuskan menggunakan listrik. Tidak terkecuali keluarga Yoshiyuki Suzuki (Fumiyo Kohinata) yang harus menghadapi kondisi krisis ini. Mereka berpikir mereka bisa menghadapinya selama satu hari, hingga hari demi hari pun berganti. Keluarga Yoshiyuki Suzuki akhirnya memutuskan untuk melarikan diri dari Tokyo. Dari sinilah perjuangan Keluarga Yoshiyuki Suzuki dalam bertahan hidup di luar Tokyo diuji. Mampukah Keluarga Yoshiyuki Suzuki untuk bertahan hidup tanpa peralatan elektronik yang sudah mereka biasa pakai?.</item>
+        <item>Menceritakan satu keluarga yang tengah berlibur ke pantai dan menginap di rumah masa kecil sang istri, Adelaide Wilson. Teror pun mulai datang ketika Adelaide makin mengingat masa kecilnya di tempat tersebut. Belum sehari, kebahagiaan keluarga ini berganti menjadi ketakutan saat tamu tak diundang muncul di halaman rumah mereka. Tamu tersebut bagaikan doppelganger dari keluarga tersebut. Bedanya, mereka datang untuk membunuh. Serangan teror dari mereka untuk suatu pergerakan yang besar. Keluarga Wilson harus bisa bertahan hidup dari semua ini.</item>
+        <item>Pokemon detective pikachu menceritakan Hilangnya detektif terkenal, Harry Goodman yang menghilang secara misterius setelah mengalami kecelakaan pada mobil yang ia tumpangi. Tim Goodman yang merupakan anak dari detektif tersebut merasa khawatir atas menghilangnya sang ayah secara misterius. Tim yang berasal dari kota kecil pergi ke Ryme City, sebuah kota metropolitan yang dihuni oleh manusia dan pokemon. Ditengah penyelidikannya, ia bertemu dengan Detective Pikachu. Tak disangka Tim ternyata mengerti perkataan Pikachu dan Pikachu pun merasa1 lega karena selama ini orang-orang hanya mendengar kata pika-pika. Sejak saat itu, Pikachu dan Tim berkerja sama untuk mencari Harry Goodman.</item>
+    </string-array>
+
+    <string-array name="data_tahun">
+        <item>28 Jan 2011</item>
+        <item>14 Feb 2019</item>
+        <item>16 Jul 2012</item>
+        <item>24 May 2019</item>
+        <item>20 Jan 2017</item>
+        <item>13 Okt 2015</item>
+        <item>5 Jan 2018</item>
+        <item>11 Feb 2017</item>
+        <item>22 Mar 2019</item>
+        <item>10 May 2019</item>
+    </string-array>
+
+    <string-array name="data_name_tv">
+        <item>Inuyasha</item>
+        <item>FinalSpace</item>
+        <item>Mayans</item>
+        <item>Chilling Adventures of Sabrina</item>
+        <item>Not Summon a Demon lord</item>
+        <item>Body Guard</item>
+        <item>My Next Guest</item>
+        <item>SAO: Gun Gale</item>
+        <item>The I-Land</item>
+        <item>Advance Bravely</item>
+    </string-array>
+
+    <string-array name="data_genre_tv">
+        <item>Animation, Sci-fi, Fantasy</item>
+        <item>Animation, Adventure</item>
+        <item>Crime, Drama</item>
+        <item>Mystery, Drama</item>
+        <item>Animation, Comedy</item>
+        <item>War, Politics</item>
+        <item>Talk</item>
+        <item>Animation, Action</item>
+        <item>Animation, Adventure</item>
+        <item>Action, Drama, Adventure</item>
+    </string-array>
+
+    <string-array name="data_description_tv">
+        <item>Kagome Higurashi adalah seorang gadis muda modern yang tinggal bersama keluarganya oleh kuil Higure tua.</item>
+        <item>Seorang astronot bernama Gary dan sahabat karib Mooncake yang menghancurkan planetnya memulai perjalanan berseri melalui ruang untuk membuka misteri.</item>
+        <item>Bertempat setelah kematian Jax Teller, Yehezkiel "EZ" Reyes baru saja keluar dari penjara dan prospek di Mayans M.C. piagam di perbatasan Cali / Mexi.</item>
+        <item>Sabrina harus memilih antara dunia penyihir dari keluarganya dan dunia manusia dari teman-temannya.</item>
+        <item>Sehubungan dengan Cross MMORPG Reverie, Sakamoto Takuma membual kekuatan yang luar biasa yang cukup baginya untuk disebut Raja Iblis oleh pemain lain.</item>
+        <item>Seorang veteran perang yang bermasalah ditugaskan untuk melindungi seorang politisi kontroversial yang mungkin menjadi sasaran plot teror. </item>
+        <item>Legenda TV David Letterman bekerja sama dengan tokoh-tokoh global yang menarik untuk wawancara mendalam.</item>
+        <item>Karen Kohiruimaki selalu merasa tidak pada tempatnya di dunia nyata. Karena tingginya yang ekstrem, dia merasa sulit untuk berteman dengan gadis-gadis lain seusianya.</item>
+        <item>Dihapus bersih dari ingatan dan dilempar bersama, sekelompok orang asing berjuang untuk selamat dari kenyataan pahit - dan pulau yang menjebak mereka.</item>
+        <item>Sersan Xia Yao, lahir dari leluhur yang kaya dan terkenal, adalah playboy yang telah membalik lembaran baru.</item>
+    </string-array>
+
+    <string-array name="data_sinopsis_tv">
+        <item>Kagome Higurashi adalah seorang gadis muda modern yang tinggal bersama keluarganya oleh kuil Higure tua. Tanpa diketahui Kagome, ia adalah reinkarnasi dari pendeta Kikyo dan memiliki "Permata Empat Jiwa" (permata Shikon). Suatu hari yang naas, Kagome menemukan sumur kuno di dekat rumahnya dan tiba-tiba diangkut melalui sumur dan masuk ke Jepang yang feodal, dihuni oleh setan. Di sana, ia bertemu Inuyasha, putra seorang ayah iblis yang kuat dan seorang ibu manusia, yang disematkan ke pohon oleh panah ajaib..</item>
+        <item>Seorang astronot bernama Gary dan sahabat karib Mooncake yang menghancurkan planetnya memulai perjalanan berseri melalui ruang untuk membuka misteri "Ruang Akhir," titik terakhir di alam semesta, jika memang ada.</item>
+        <item>Bertempat setelah kematian Jax Teller, Yehezkiel "EZ" Reyes baru saja keluar dari penjara dan prospek di Mayans M.C. piagam di perbatasan Cali / Mexi. Sekarang, EZ harus mengukir identitas barunya di sebuah kota di mana ia pernah menjadi anak emas dengan Impian Amerika dalam genggamannya.</item>
+        <item>Ketika ulang tahunnya yang ke-16 semakin dekat, Sabrina harus memilih antara dunia penyihir dari keluarganya dan dunia manusia dari teman-temannya. Berdasarkan komik Archie.</item>
+        <item>Sehubungan dengan Cross MMORPG Reverie, Sakamoto Takuma membual kekuatan yang luar biasa yang cukup baginya untuk disebut Raja Iblis oleh pemain lain. Suatu hari, dia dipanggil ke dunia lain dengan penampilannya di game. Di sana, ada dua orang yang bersikeras, "Aku adalah ahli pemanggilan yang sebenarnya." Takuma mendapat sihir pembalasan budak yang digunakan untuk monster yang dipanggil yang dilemparkan padanya oleh para gadis― Namun, kemampuan aneh "Refleksi Sihir" dipanggil! Orang-orang yang menjadi budak adalah para gadis!.</item>
+        <item>Di kereta perjalanan pulang dari mengunjungi orang tuanya bersama anak-anaknya, David Budd menemukan salah satu penumpang akan melancarkan aksi teroris dari toilet kereta. David yang merupakan seorang polisi dan veteran perang di Afganistan dengan PTSD kemudian ditugaskan menjadi bodyguard dari much-hated Home Secretary, Julia Montague.</item>
+        <item>My Next Guest Needs No Introduction With David Letterman adalah acara bincang-bincang televisi web Amerika yang dipandu oleh David Letterman yang ditayangkan perdana pada 12 Januari 2018 di Netflix. Legenda TV David Letterman bekerja sama dengan tokoh-tokoh global yang menarik untuk wawancara mendalam dan kunjungan yang penuh rasa ingin tahu dalam acara bincang-bincang bulanan ini.</item>
+        <item>Karen Kohiruimaki selalu merasa tidak pada tempatnya di dunia nyata. Karena tingginya yang ekstrem, dia merasa sulit untuk berteman dengan gadis-gadis lain seusianya. Semuanya berubah ketika dia diperkenalkan ke VR dan Gun Gale Online. Di GGO, Karen bebas memainkan avatar chibi imut dari mimpinya! Bisakah Karen menemukan persahabatan dalam MMO yang penuh peluru ini …?.</item>
+        <item>Dihapus bersih dari ingatan dan dilempar bersama, sekelompok orang asing berjuang untuk selamat dari kenyataan pahit - dan pulau yang menjebak mereka. Ketika sepuluh orang terbangun di sebuah pulau berbahaya tanpa ingatan siapa mereka dan bagaimana mereka sampai di sana, mereka berangkat untuk mencoba pulang, hanya untuk menemukan dunia tidak seperti kelihatannya.</item>
+        <item>Sersan Xia Yao, lahir dari leluhur yang kaya dan terkenal, adalah playboy yang telah membalik lembaran baru. Yuan Zong adalah seorang mantan prajurit dari pasukan khusus yang membuka perusahaan pelatihan pengawal setelah diberhentikan. Ketika Yuan Ru, adik perempuan Yuan Zong jatuh cinta pada pesona Xia Yao, tetapi tidak bisa menghancurkan penghalang yang didirikannya, dia datang ke Yuan Zong untuk meminta bantuan. Saat Yuan Zong melihat Xia Yao, dia tahu tidak ada orang lain yang akan menarik perhatiannya. Dan dimulailah pertempuran antara saudara dan saudari untuk harga yang paling diidamkan - hati Xia Yao.</item>
+    </string-array>
+
+    <string-array name="data_tahun_tv">
+        <item>16 Okt 2000</item>
+        <item>15 Feb 2018</item>
+        <item>4 Sep 2018</item>
+        <item>26 Okt 2018</item>
+        <item>5 Jul 2018</item>
+        <item>26 Agt 2018</item>
+        <item>12 Jan 2018</item>
+        <item>7 Apr 2018</item>
+        <item>12 Sep 2019</item>
+        <item>8 Agt 2017</item>
+    </string-array>
+
+</resources>
